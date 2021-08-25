@@ -33,3 +33,6 @@ Use the class corpus and do sentiment analysis for the positive and negative rev
 Topic Modeling:
 
 Use the entire class corpus. Try LSA and LDA methods to do topic modeling, on the class corpus. Manipulating the number of topics to get the best model performance
+
+
+Create ontology knowledge graph to identify the relationship between each entity
